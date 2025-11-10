@@ -22,8 +22,6 @@ Node.js
 
 npm
 
-Além disso, o backend deve estar rodando localmente (geralmente em http://localhost:3001), pois o frontend se comunica com ele via API REST.
-
 🚀 Como Rodar o Projeto
 
 Acesse a pasta do frontend:
